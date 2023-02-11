@@ -22,7 +22,7 @@ const FooterContent = styled.div`
 const Footer = () => (
   <FooterContent>
     <a
-      href="https://github.com/react-puzzle-games/15-puzzle/"
+      href="https://github.com/oyerohabib/puzzle-game/"
       target="_blank"
       rel="noopener noreferrer"
     >
@@ -34,7 +34,7 @@ const Footer = () => (
       {' '}by{' '}
       <a
         className="footerlink"
-        href="https://github.com/react-puzzle-games"
+        href="https://github.com/oyerohabib/"
         rel="noopener noreferrer"
         target="_blank"
       >
