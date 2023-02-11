@@ -38,7 +38,7 @@ const Footer = () => (
         rel="noopener noreferrer"
         target="_blank"
       >
-        {' '}React Puzzle Games
+        {' '}Oyero Habib.
       </a>
     </p>
   </FooterContent>
