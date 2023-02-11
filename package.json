@@ -1,6 +1,9 @@
 {
   "name": "react-sliding-puzzle",
   "version": "0.3.0",
+  "engines": {
+    "node": "18.14.0"
+  },
   "private": true,
   "devDependencies": {
     "coveralls": "^2.11.16",
